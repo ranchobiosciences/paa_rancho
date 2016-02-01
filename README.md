@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------
-PAA (Protein Array Analyzer) package with modificatons by Rancho BioSciences
-       John Obenauer, Ph.D., and Ivan Grishagin, Ph.D., February 2016
+PAA (Protein Array Analyzer) package with modifications by Rancho BioSciences
 ----------------------------------------------------------------------------
+       John Obenauer, Ph.D., and Ivan Grishagin, Ph.D., February 2016
 
 The Bioconductor package PAA, created by Michael Turewicz at Ruhr University Bochum,
 provides data analysis functions for protein microarrays.  In our analysis of Thermo Fisher
